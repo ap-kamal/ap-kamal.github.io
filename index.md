@@ -2,30 +2,35 @@
 
 ---
 
-### Category Name 1 
+### Data Science: R
 
-[Project 1 Title](/sample_page)
+[Credit Card Customer Segmentation](/sample_page)
 <img src="Images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="Images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Cryptocurrency Price Prediction using ARIMA](/pdf/sample_presentation.pdf)
 <img src="Images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Data Science: Python
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Predicting Review Scores on Pitchfork](/sample_page)
+<img src="Images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[H1B Visa Prediction Analysis](/pdf/sample_presentation.pdf)
+<img src="Images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Database Model Query Language: SQL
+
+[Airbnb backend database creation](/pdf/sample_presentation.pdf)
+<img src="Images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 
 
 
