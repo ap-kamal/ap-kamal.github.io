@@ -4,7 +4,7 @@
 
 ### Data Science: R
 
-[Credit Card Customer Segmentation](/sample_page)
+[Credit Card Customer Segmentation](/1.1_Credit_card.md)
 <img src="Images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
