@@ -15,7 +15,7 @@
 
 ### Data Science: Python
 
-[Predicting Review Scores on Pitchfork](/2.1_pitch_fork.md)
+[Predicting Review Scores on Pitchfork](/2.1_pitch_fork.html)
 <img src="Images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
