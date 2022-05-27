@@ -19,7 +19,7 @@
 <img src="Images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[H1B Visa Prediction Analysis](/pdf/sample_presentation.pdf)
+[H1B Visa Prediction Analysis](/H1B_Visa_Report.pdf)
 <img src="Images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
