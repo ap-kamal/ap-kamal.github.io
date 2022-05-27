@@ -26,7 +26,7 @@
 
 ### Database Model Query Language: SQL
 
-[Airbnb backend database creation](/pdf/sample_presentation.pdf)
+[Airbnb backend database creation](/3_SQL_airbnb.pdf)
 <img src="Images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
