@@ -8,7 +8,7 @@
 <img src="Images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Cryptocurrency Price Prediction using ARIMA](/pdf/sample_presentation.pdf)
+[Cryptocurrency Price Prediction using ARIMA](/02_Crypto.pdf)
 <img src="Images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
