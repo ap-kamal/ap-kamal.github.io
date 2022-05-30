@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-## Projects
+### Projects
 
 #### Data Science: R
 
