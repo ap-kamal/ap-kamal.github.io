@@ -1,8 +1,9 @@
 ## Portfolio
 
 ---
+## Projects
 
-### Data Science: R
+#### Data Science: R
 
 [Credit Card Customer Segmentation](/1.1_Credit_card.md)
 <br />
@@ -16,7 +17,7 @@ Cryptocurrency is a new form of asset which is used for paying or investing digi
 
 ---
 
-### Data Science: Python
+#### Data Science: Python
 
 [Predicting Review Scores on Pitchfork](/2.1_pitch_fork.html)
 <br />
@@ -28,7 +29,7 @@ H1-B visas are a type of non-immigrant visa for foreign national professionals w
 
 ---
 
-### Database Model Query Language: SQL
+#### Database Model Query Language: SQL
 <br />
 [Airbnb backend database creation](/3_SQL_airbnb.pdf)
 As the urge of people towards exploring the world keeps on increasing, not only the famous cities but also exotic suburban places are also getting flooded with tourists. Over the past few years (pre-covid), tourism is at boom enabling people to visit and explore the places worldwide. Airbnb has turned into an extremely famous decision among explorers all over the planet for the sort of novel encounters that they give and furthermore to introducing an option in contrast to expensive lodgings. Airbnb does links landlords and tourist visitors by providing an accommodation. The problem that we are going to address is eliminating the inconsistency in Airbnb dataset by creating and normalizing the database system provides efficiency in storing and accessing the huge amount of data and provides hassle free user interface to the users. Normalization using BCNF and query analysis are performed for the dataset.
