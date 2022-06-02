@@ -6,8 +6,8 @@
 October 2018 - August 2021
 <br />
 <div style="text-align: justify"> 
-* Oversaw a cross-functional team of 15 in 3 different locations (Chennai, Bangalore and Hyderabad) and collaborated with Clients, Business Analysts, Developers, DevOps and UAT team to deliver quality products.
-* Enhanced performance of subscribers' enrollment and processing claims by more than 35% by automating creation of EDI test data by formulating stored procedures in Sybase SQL.
+- Oversaw a cross-functional team of 15 in 3 different locations (Chennai, Bangalore and Hyderabad) and collaborated with Clients, Business Analysts, Developers, DevOps and UAT team to deliver quality products.
+- Enhanced performance of subscribers' enrollment and processing claims by more than 35% by automating creation of EDI test data by formulating stored procedures in Sybase SQL.
 * Initiated account-wide effort to streamline methods of Tableau reporting, resulted in 80% of reports being prepared ahead of schedule, with a 12% increase in accuracy.
 * Trained and mentored new and existing account executives and interns on solutions involved in advanced product knowledge and created web portal to integrate collective knowledge repository which resulted in 50% reduction of training new executives individually on every module.
 </div>
