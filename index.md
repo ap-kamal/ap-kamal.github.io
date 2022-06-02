@@ -1,8 +1,8 @@
 ## Portfolio
 
 ### Professional Experience:
-**ETL Quality Engineer and Assurance Associate**
-*Cognizant Technology Solutions, India*
+**ETL Quality Engineer and Assurance Associate** <br />
+*Cognizant Technology Solutions, India*<br />
 October 2018 - August 2021
 <br />
 <div style="text-align: justify"> 
@@ -15,9 +15,9 @@ October 2018 - August 2021
 
 ---
 
-**Junior ETL Quality Engineer and Assurance Analyst**
-*Cognizant Technology Solutions, India*
-February 2016 - September 2018
+**Junior ETL Quality Engineer and Assurance Analyst**<br />
+*Cognizant Technology Solutions, India*<br />
+February 2016 - September 2018<br />
 <br />
 <div style="text-align: justify"> 
 * Worked closely with multi-disciplinary teams to understand the business scenarios and transaction functionality to design test plan, RTM and unit and integration test cases to ensure 100% requirement coverage.<br />
