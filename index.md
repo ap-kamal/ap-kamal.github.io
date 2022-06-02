@@ -6,9 +6,9 @@
 October 2018 - August 2021
 <br />
 <div style="text-align: justify"> 
-- Oversaw a cross-functional team of 15 in 3 different locations (Chennai, Bangalore and Hyderabad) and collaborated with Clients, Business Analysts, Developers, DevOps and UAT team to deliver quality products.
-- Enhanced performance of subscribers' enrollment and processing claims by more than 35% by automating creation of EDI test data by formulating stored procedures in Sybase SQL.
-* Initiated account-wide effort to streamline methods of Tableau reporting, resulted in 80% of reports being prepared ahead of schedule, with a 12% increase in accuracy.
+* Oversaw a cross-functional team of 15 in 3 different locations (Chennai, Bangalore and Hyderabad) and collaborated with Clients, Business Analysts, Developers, DevOps and UAT team to deliver quality products.<br />
+* Enhanced performance of subscribers' enrollment and processing claims by more than 35% by automating creation of EDI test data by formulating stored procedures in Sybase SQL.<br />
+* Initiated account-wide effort to streamline methods of Tableau reporting, resulted in 80% of reports being prepared ahead of schedule, with a 12% increase in accuracy.<br />
 * Trained and mentored new and existing account executives and interns on solutions involved in advanced product knowledge and created web portal to integrate collective knowledge repository which resulted in 50% reduction of training new executives individually on every module.
 </div>
 <br />
@@ -19,10 +19,10 @@ October 2018 - August 2021
 February 2016 - September 2018
 <br />
 <div style="text-align: justify"> 
-* Worked closely with multi-disciplinary teams to understand the business scenarios and transaction functionality to design test plan, RTM and unit and integration test cases to ensure 100% requirement coverage.
-* Performed data analytical testing to validate end to-end data flow from Enrollment module to Finance module.
-* Regulated interfacing of metadata repositories, and developed Data stage Jobs to extract data from heterogeneous sources, applying data transformation logics and updating them into databases with less than 1% of defect leakage.
-* Tested both backend and frontend features of Web app, Native app in SeeTest for automated mobile testing and ran scripts for multiple devices to achieve 30% increase in usage and 50% increase in performance of Mobile App.
+* Worked closely with multi-disciplinary teams to understand the business scenarios and transaction functionality to design test plan, RTM and unit and integration test cases to ensure 100% requirement coverage.<br />
+* Performed data analytical testing to validate end to-end data flow from Enrollment module to Finance module.<br />
+* Regulated interfacing of metadata repositories, and developed Data stage Jobs to extract data from heterogeneous sources, applying data transformation logics and updating them into databases with less than 1% of defect leakage.<br />
+* Tested both backend and frontend features of Web app, Native app in SeeTest for automated mobile testing and ran scripts for multiple devices to achieve 30% increase in usage and 50% increase in performance of Mobile App.<br />
 * Validated output of ETL jobs in Tableau dashboards to ensure accuracy and integrity of data within data warehouse.
 </div>
 
