@@ -6,7 +6,9 @@
 <img src="Images/Timeline.png?raw=true"/>
 
 
-### Professional Experience:
+### Academic and Professional Experience:
+<img src="Images/Experience.png?raw=true"/>
+
 **ETL Quality Engineer and Assurance Associate** <br />
 *Cognizant Technology Solutions, India*<br />
 October 2018 - August 2021
