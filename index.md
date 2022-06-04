@@ -1,6 +1,7 @@
 ## Portfolio
 
 ### Timeline:
+<img src="Images/Timeline.png?raw=true"/>
 
 
 ### Professional Experience:
