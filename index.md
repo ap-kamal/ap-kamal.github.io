@@ -1,4 +1,5 @@
-<span style="color:blue">
+<span style="color:blue;">
+
 ## Portfolio
 
 ### Timeline:
