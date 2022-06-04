@@ -1,3 +1,4 @@
+<span style="color:blue">
 ## Portfolio
 
 ### Timeline:
@@ -74,4 +75,4 @@ As the urge of people towards exploring the world keeps on increasing, not only 
 <br />
 
 ---
-
+</span>
